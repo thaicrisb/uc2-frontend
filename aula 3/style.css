@@ -1,0 +1,9 @@
+/* Quando eu quero criar uma classe (class), eu coloco, no inicio */
+/* CSS significa cascata de estilo*/
+
+.borda-produto{
+    /*border-style define o estilo de borda para utilizar*/
+    border-style: solid;
+    /*border-width define a largura da borda*/
+    border-width: 0.3rem;
+}
